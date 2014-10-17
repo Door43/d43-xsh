@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xsh:home|Door43 (xsh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xsh|d43-xsh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xsh/archive/master.zip|d43-xsh.zip]]
+
+**Recent Changes**
+{{changes>ns = xsh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xsh|Ethnologue data]]
+
